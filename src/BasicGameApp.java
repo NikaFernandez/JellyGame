@@ -92,6 +92,8 @@ public class BasicGameApp implements Runnable {
         }
     }
 
+    ///code
+
     //Graphics setup method
     private void setUpGraphics() {
         frame = new JFrame("Application Template");   //Create the program window or frame.  Names it.
